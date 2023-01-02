@@ -3,7 +3,7 @@ label: /ping
 icon: square
 order: 100
 ---
-# Web Markdown エディター
+# /Ping
 これは左に書くと右に反映されるマークダウンエディターです。
 Markdownをマスターしてスタイリッシュな文書を書こう！
 
@@ -12,7 +12,6 @@ Markdownをマスターしてスタイリッシュな文書を書こう！
 
 ### リンクもあるよ
 [Web Markdownエディター](http://araishi.com/markdown/)
-
 ####その他
 * リスト1
 * リスト2
