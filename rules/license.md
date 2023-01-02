@@ -1,7 +1,7 @@
 ---
-icon: home
-label: Home
-order: 10000
+label: ライセンス
+icon: checklist
+order: 99
 ---
 # Web Markdown エディター
 これは左に書くと右に反映されるマークダウンエディターです。

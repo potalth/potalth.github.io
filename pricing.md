@@ -1,7 +1,7 @@
 ---
-icon: home
-label: Home
-order: 10000
+icon: flame
+label: 価格
+order: 9999
 ---
 # Web Markdown エディター
 これは左に書くと右に反映されるマークダウンエディターです。

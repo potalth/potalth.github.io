@@ -1,7 +1,7 @@
 ---
-icon: home
-label: Home
-order: 10000
+label: Potalthの設定
+icon: square
+order: 100
 ---
 # Web Markdown エディター
 これは左に書くと右に反映されるマークダウンエディターです。
