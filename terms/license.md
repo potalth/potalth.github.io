@@ -3,6 +3,6 @@ label: ライセンス
 icon: checklist
 order: 99
 ---
-# Potalth
+# ライセンス
 
-準備中
+Potalthは下記のOSSライブラリを使用しています
